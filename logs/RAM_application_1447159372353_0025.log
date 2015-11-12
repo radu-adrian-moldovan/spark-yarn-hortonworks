@@ -1,0 +1,12 @@
+#RAM# : ******************************* v 1.0 ***************************************
+#RAM# : 1. Loading file
+#RAM# : 2. Split each row, and cache it!
+#RAM# : 3. Start building the dataframe
+#RAM# : 4. Printing dataframe schema
+#RAM# : 5.0 Remove existing parquet file
+#RAM# : 5.1 Write DF in parquet
+#RAM# : 6. Read DF in parquet
+#RAM# : 7. Create Table <dataParquetTable>
+#RAM# : 8. Filter DF in parquet
+#RAM# : 9. Final count: 436
+#RAM# : ******************************* done! ***************************************
